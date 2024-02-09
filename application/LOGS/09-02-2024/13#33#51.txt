@@ -1,0 +1,5 @@
+[INFO] ------2024-02-09 13:33:51.582641------ Iniciado proceso de modificación de los pdfs. 
+[INFO] Leyendo de: "C:/Users/Guillermo/OneDrive - ZALCU/Escritorio/entrada" 
+[INFO] ------2024-02-09 13:34:15.572405------ FILE C:/Users/Guillermo/OneDrive - ZALCU/Escritorio/entrada\PRUEBA2.pdf: QR code generated successfully 
+[INFO] ------2024-02-09 13:34:15.573405------ FILE C:/Users/Guillermo/OneDrive - ZALCU/Escritorio/entrada\PRUEBA2.pdf: MOVED successfully to BACKUP\09-02-2024\ORIGINAL PDFS\PRUEBA2_edf4d107-4b2e-42e6-b22c-82f9ce04048a.pdf 
+[INFO] ------2024-02-09 13:34:15.659425------ FILE C:\Users\Guillermo\OneDrive - ZALCU\Escritorio\convert-coord-to-qr\BACKUP\09-02-2024\QR PDFSPRUEBA2.pdf: PRINTED successfully 
