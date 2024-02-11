@@ -1,4 +1,0 @@
-1. Ejecutar el archivo "run"
-2. Seleccionar el directorio de entrada (de donde se leerá los archivos a convertir)
-3. Seleccionar la impresora por la que se imprimirán los documentos modificados.
-4. Pulsar en el botón "Aceptar"

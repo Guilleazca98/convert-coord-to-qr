@@ -1,4 +1,9 @@
-1. Ejecutar el archivo "run" dentro de la carpeta "application"
-2. Seleccionar el directorio de entrada (de donde se leerá los archivos a convertir)
-3. Seleccionar la impresora por la que se imprimirán los documentos modificados.
-4. Pulsar en el botón "Aceptar"
+EJECUTAR CON NUEVA CONFIGURACIÓN:
+	1. Ejecutar el archivo "picker.exe" dentro de la carpeta "application"
+	2. Seleccionar el directorio de entrada (de donde se leerá los archivos a convertir)
+	3. Seleccionar la impresora por la que se imprimirán los documentos modificados.
+	4. Seleccionar el tamaño del código QR en el pdf
+	5. Pulsar en el botón "Aceptar"
+
+EJECUTAR CON LA CONFIGURACIÓN GUARDADA (necesario haber ejecutado previamente, al menos una vez con una nueva configuración):
+	1. Ejecutar el archivo "main.exe" dentro de la carpeta "application"
